@@ -1,4 +1,3 @@
-# Cyber security Roadmaps
 # SOC & DFIR Roadmap
 
 ## Introduction
@@ -213,6 +212,7 @@ If you're set to dive into digital forensics and incident response (DFIR), you'v
   - [CSILinux Forensic Trainings](https://training.csilinux.com/)
   - [Cybrary Trainings](https://www.cybrary.it/)
   - [DFIR Diva](https://training.dfirdiva.com/)
+  - https://training.sleuthkitlabs.com/collections
 - **CTF Platforms**:
     - Regularly participate in CTFs on platforms like [TryHackMe](https://tryhackme.com/),[Let's Defend](https://letsdefend.io/) , [Hack The Box](https://www.hackthebox.com/), [Blue Team Labs Online](https://blueteamlabs.online/), and [CyberDefenders](https://cyberdefenders.org/) to keep skills sharp and stay current with new techniques.
     - A List of all labs Created by  MM0X: [MM0X Labs](https://mmox.me/mylabs)
