@@ -1,5 +1,5 @@
+![image (5)](https://github.com/user-attachments/assets/8aa8c3e0-d13a-41f8-84bb-f6b083e7eac0)
 # SOC & DFIR Roadmap
-
 ## Introduction
 I know—you’ve seen countless roadmaps for starting a cybersecurity career. But let’s face it: any path can get you there if you stick with it.
 
