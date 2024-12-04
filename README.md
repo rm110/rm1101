@@ -218,3 +218,6 @@ If you're set to dive into digital forensics and incident response (DFIR), you'v
     - A List of all labs Created by  MM0X: [MM0X Labs](https://mmox.me/mylabs)
 **Note:** This roadmap provides a structured guide for developing skills in both SOC and DFIR roles. Progress through each stage at your own pace and ensure a thorough understanding before moving on to the next.
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+# Other resources
+[1731094859793.pdf](https://github.com/user-attachments/files/18014278/1731094859793.pdf)
+- https://www.withsandra.dev/p/here-are-the-best-free-soc-analyst-courses-for-beginners
